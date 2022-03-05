@@ -6,3 +6,6 @@ For the Python script: simply run the script `getFonts.py`.
 For the binary:
 1. Extract the binary archive in a directory.
 2. Run `getFonts.exe`.
+
+# Building
+Simply run `setup.py`.
